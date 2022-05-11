@@ -1,4 +1,4 @@
-Store some mini project ideas to do. Aims to include more modules, packages within projects to study new tools while building these projects.
+Store some mini project ideas to do. Aims to include more modules, packages to study new tools while building these projects.
 
 - 1.1 file management: use ner model to sort filenames
 - 1.2 video extraction: extract clips with determined start time & end time from a groups of local videos.
