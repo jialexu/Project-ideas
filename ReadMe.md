@@ -6,3 +6,5 @@ Store some mini project ideas to do. Aims to include more modules, packages to s
 - 1.4 web video screenshot: capture website video screenshots every second or minute.
 - 1.5 stream chat categorizer: read stream chat, build user profiles according to their chats
 - 1.6 stream chat cleaner: set avoid words, put chats with avoid words into separate box, reduce redundant chats.
+- 1.7 pic reducer: reduce pictures' sizes using methods such as resolution reducation, images concatenation, image to video, image to gif.
+- 1.8 video reducer: reduce videos' sizes using short clips, screenshots.
